@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import DataFetcher from './DataFetcher';
+// import DataFetcher from './DataFetcher';
 import MqttSubscriber from './MqttSubscriber';
-import MqttSubscriber2 from './MqttSubscriber2';
+// import MqttSubscriber2 from './MqttSubscriber2';
 function App() {
   return (
     <div className="App">
