@@ -8,9 +8,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>React API Demo</h1>
-        <DataFetcher />
+        {/* <DataFetcher /> */}
 	      <MqttSubscriber />
-	      <MqttSubscriber2 />
       </header>
     </div>
   );
