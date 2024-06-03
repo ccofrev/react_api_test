@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>React API Demo</h1>
-        <DataFetcher />
+        <h1>Test</h1>
+        {/* <DataFetcher /> */}
 	      <MqttSubscriber />
       </header>
     </div>
